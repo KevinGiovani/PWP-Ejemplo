@@ -1,0 +1,107 @@
+/*
+Theme Name: Hello Elementor Child
+Theme URI: https://elementor.com/hello-theme/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash
+Template: hello-elementor
+Author: Elementor Team
+Author URI: https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash
+Description: A plain-vanilla &amp; lightweight theme for Elementor page builder
+Tags: accessibility-ready,flexible-header,custom-colors,custom-menu,custom-logo,featured-images,rtl-language-support,threaded-comments,translation-ready
+Version: 2.6.1.1672972878
+Updated: 2023-01-06 02:41:18
+*/
+
+.site-branding.show-logo{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.elementor-image-carousel .swiper-slide-image  {
+border-radius: 0px 0px 0px 0px;
+    width: 50%;
+    height: auto;
+}
+
+.card-cl{
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+  width:auto;
+  border: 1px solid gray;
+  box-shadow: 1px 1px 8px 4px #8F8A8A;
+  border-radius:15px;
+  padding: 20px;
+}
+
+#button1{
+	float:right;
+	text-decoration: none;
+	width: 150px;
+}
+
+#button2{
+	text-decoration: none;
+	margin: 0 auto;
+	width: 300px;
+}
+
+#responsive-form{
+	max-width:1000px; 
+	margin:0 auto;
+	width:100%;
+}
+.form-row{
+	width: 100%;
+}
+
+.column-half, .column-full{
+	float: left;
+	position: relative;
+	padding: 0.65rem;
+	width:100%;
+}
+
+.column-third{
+	float: left;
+    width: 50%;	
+	padding: 0.65rem;
+}
+
+.clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+ 
+.text-thanks{
+  text-align:center;
+}
+
+
+@media only screen and (min-width: 48em) { 
+	.column-half{
+		width: 50%;
+	}
+	.column-third{
+		width: 25%;
+
+	}
+}
+.wpcf7 input[type="text"],
+.wpcf7 input[type="email"],
+.wpcf7 input[type="tel"],
+select,
+	.wpcf7 textarea {
+	border: 2px solid red;
+}
+
+.wpcf7-submit {
+	background-color:red!important;
+	color:white!important;
+	padding:10px 20px;
+	border-radius: 20px;
+	font-weight:bold;
+	display: block;
+	margin: 0 auto;
+}
