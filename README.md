@@ -5,4 +5,5 @@ El proyecto para ser visualizado por cualquier persona sin conocimiento de WordP
 se establecio que se suba hacia un web hosting gratuito. El proyecto puede ser visualizado en el siguiente enlace: https://casa-financiera.000webhostapp.com/
 
 (Enlace funcionando: comprobado el 6/07/23)
+
 Nota: La lentitud de carga de dicho enlace se debe a las limitaciones que presentan dicho hosting al ser gratuito.
