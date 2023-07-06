@@ -6,4 +6,4 @@ se establecio que se suba hacia un web hosting gratuito. El proyecto puede ser v
 
 (Enlace funcionando: comprobado el 6/07/23)
 
-Nota: La lentitud de carga de dicho enlace se debe a las limitaciones que presentan dicho hosting al ser gratuito.
+Nota: La lentitud de carga de dicho enlace se debe a las limitaciones que presenta el propio hosting al ser gratuito.
